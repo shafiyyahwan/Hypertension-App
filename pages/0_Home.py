@@ -544,6 +544,6 @@ st.markdown("""
 <div style="text-align: center; color: #64748b; padding: 1.5rem 0;">
     <p style="font-size: 1rem; margin-bottom: 0.4rem;"><strong>Hypertension Risk Predictor</strong></p>
     <p style="font-size: 0.9rem; margin: 0;">Powered by Machine Learning | Built with Streamlit</p>
-    <p style="font-size: 0.85rem; margin-top: 0.8rem; color: #94a3b8;">© 2024 Hypertension Risk Predictor</p>
+    <p style="font-size: 0.85rem; margin-top: 0.8rem; color: #94a3b8;">© 2026 Hypertension Risk Predictor</p>
 </div>
 """, unsafe_allow_html=True)
