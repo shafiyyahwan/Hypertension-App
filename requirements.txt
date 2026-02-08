@@ -1,7 +1,6 @@
 streamlit
 pandas
-numpy
-scikit-learn
-imbalanced-learn
 joblib
+plotly
+scikit-learn
 mlxtend
